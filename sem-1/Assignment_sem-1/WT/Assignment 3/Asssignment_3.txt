@@ -1,0 +1,11 @@
+1. Demonstrate use of Formatting TAG 
+
+2. Demonstrate use of List Elements 
+
+3. Demonstrate use of Table Elements 
+
+4. Demonstrate use of Links 
+a. Image 
+b. Email 
+c. Text 
+5. Demonstrate use of HTML Forms

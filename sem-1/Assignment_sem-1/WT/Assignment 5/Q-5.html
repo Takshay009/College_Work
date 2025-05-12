@@ -1,0 +1,30 @@
+<!-- 5. Creating a Basic Animation: Create a webpage with a heading. 
+Use CSS to: Animate the heading so it slowly changes color from red to blue. -->
+
+
+<html>
+
+<head>
+ANIMATION
+<style>
+    .transition-box {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin: 50px auto;
+    transition: background-color 0.5s ease, transform 1s ease;
+}
+
+.transition-box:hover {
+    background-color: darkblue;
+    transform: scale(1.5);
+}
+
+</style>
+</head>
+
+<body>
+    <div class="transition-box"></div>
+</body>
+
+</html>

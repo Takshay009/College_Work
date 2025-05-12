@@ -1,0 +1,41 @@
+<!-- 1. Creating a Simple Two-Column Layout: Create a webpage using CSS grid or flexbox with two sections:
+ One section for text and another for an image. Ensure both sections are aligned side by side -->
+
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 500px; 
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+img {
+  border-radius: 8px;
+}
+</style>
+</head>
+<body>
+<div class="row">
+  <div class="column" style="background-color:rgb(171, 171, 171);">
+    <h2>Column 1</h2>
+    <p>TYPE SOMETHING</p>
+  </div>
+  <div class="column" style="background-color:rgb(187, 187, 187);">
+    <h2>Column 2</h2>
+    <p> KUCH BHI</p>
+    <img height="330" width="500" src="https://carwow-uk-wp-3.imgix.net/18015-MC20BluInfinito-scaled-e1707920217641.jpg" alt="No Image Found"/>
+  </div>
+</div>
+
+</body>
+</html>

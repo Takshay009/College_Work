@@ -1,0 +1,20 @@
+1. Demonstrate use of Heading, Paragraph, Line Break, Horizontal lines TAG. 
+
+2. Demonstrate use of Centering TAG, Preserve Formatting, Nonbreaking Space. 
+
+3. Demonstrate use of Attribute TAG 
+a. Align (Generic) 
+b. Bgcolor (Generic) 
+c. Global 
+d. Title (Generic) 
+e. Class (Generic) 
+f. Style 
+g. Dir (Internationalization) 
+h. Lang (Internationalization) 
+i. Width and Height (Generic) 
+j. Id (Generic) 
+
+4. Demonstrate use of Elements TAG 
+a. Simple 
+b. Nested 
+c. Empty

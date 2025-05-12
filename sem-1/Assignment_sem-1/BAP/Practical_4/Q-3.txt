@@ -1,0 +1,4 @@
+
+3. A do while loop is executed:
+
+ans. At least once.
